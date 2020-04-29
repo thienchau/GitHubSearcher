@@ -6,7 +6,6 @@ target 'GithubSearcher' do
   use_frameworks!
 
     pod 'Kingfisher', '~> 5.0'
-    pod "MXParallaxHeader"
     pod 'IQKeyboardManagerSwift'
 
   # Pods for GithubSearcher

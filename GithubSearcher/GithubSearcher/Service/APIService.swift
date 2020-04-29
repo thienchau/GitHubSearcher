@@ -26,7 +26,7 @@ final class APIService {
         urlComponents.queryItems = requestType.queryItems
         var request = URLRequest(url: urlComponents.url!)
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
-        request.addValue(Token, forHTTPHeaderField: "Authorization")
+        //request.addValue(Token, forHTTPHeaderField: "Authorization")
 
         
         let dataTask = URLSession.shared.dataTask(with: request) { data, response, error in
