@@ -1,0 +1,26 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - MXParallaxHeader (1.1.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 5.0)
+  - MXParallaxHeader
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MXParallaxHeader
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  MXParallaxHeader: de3c867e10ba46e8f6e20c8ee1f2a910372b3b94
+
+PODFILE CHECKSUM: 211caa790c96b3e9c1d00fcac98948e33e3a949e
+
+COCOAPODS: 1.8.4
